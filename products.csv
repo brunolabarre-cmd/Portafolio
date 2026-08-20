@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Detector Pro X1,Detectores de Metales,45000,78000
+2,Detector Compacto GC,Detectores de Metales,22000,41000
+3,Detector Sub-acuático AquaFind,Detectores de Metales,68000,115000
+4,Scanner OBD2 Basic,Scanners Automotrices,15000,29000
+5,Scanner Diagnóstico Pro,Scanners Automotrices,52000,89000
+6,Scanner Bluetooth Elite,Scanners Automotrices,38000,67000
+7,SSD 1TB NVMe,Componentes PC,55000,82000
+8,Memoria RAM 16GB DDR4,Componentes PC,32000,51000
+9,Fuente 650W 80+ Bronze,Componentes PC,41000,63000
+10,Placa de Video GTX Entry,Componentes PC,210000,310000
+11,Cooler CPU RGB,Componentes PC,18000,31000
+12,Cámara WiFi Interior,Cámaras de Seguridad,25000,44000
+13,Kit 4 Cámaras NVR,Cámaras de Seguridad,145000,220000
+14,Cargador Rápido USB-C 65W,Accesorios Electrónicos,9000,17000
+15,Hub USB 7 puertos,Accesorios Electrónicos,7500,14000
